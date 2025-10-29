@@ -12,6 +12,7 @@ __pycache__/
 
 outputs/
 *.csv
+!client/out.csv
 *.log
 logs/
 
